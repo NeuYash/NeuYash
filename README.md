@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React Native
 
-- 👨‍💻 All of my projects are available at [Profile](https://neuyash.github.io/website1/)
+- 👨‍💻 All of my projects are available at [Profile](https://neuyash.github.io/portfolio/)
 
 - 💬 Ask me about J2EE, Python
 
