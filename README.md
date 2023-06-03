@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React Native
 
-- 👨‍💻 All of my projects are available at [Profile](northeastern-csm.symplicity.com/profiles/yash.pawar)
+- 👨‍💻 All of my projects are available at [Profile](https://neuyash.github.io/website1/)
 
 - 💬 Ask me about J2EE, Python
 
